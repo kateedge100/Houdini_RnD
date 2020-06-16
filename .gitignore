@@ -26,3 +26,6 @@
 ##############
 *.bak
 *.swp
+
+# Do not version OTL backups (bit hacky)
+*/backup/*

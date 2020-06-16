@@ -10,6 +10,9 @@ HOUDINI_PATH = "$HOUDINI_PATH:$HOUDINI_RND"
 PYTHONPATH = "$PATH:$HOUDINI_RND/scripts"
 ```
 
+## Houdini Tips and Tricks
+Documentation on various aspects of Houdini can be found under `docs`. 
+
 ## Shelf Tools
 
 ### Version Scene

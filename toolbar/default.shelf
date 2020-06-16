@@ -9,9 +9,10 @@
 
   <toolshelf name="rnd" label="RnD">
     <memberTool name="versionScene"/>
+    <memberTool name="object_top_cache::1"/>
   </toolshelf>
 
-  <tool name="versionScene" label="Version Scene" icon="PLASMA_App">
+  <tool name="versionScene" label="Version Scene" icon="$HOUDINI_RND/toolbar/icons/version.png">
     <script scriptType="python"><![CDATA[from utility.scene import version_scene
 
 version_scene()
